@@ -25,10 +25,10 @@ DOMAIN-SUFFIX,specialsci.cn
 DOMAIN-SUFFIX,proquest.com
 DOMAIN-SUFFIX,dl.acm.org
 DOMAIN-SUFFIX,pubs.acs.org
-DOMAIN-SUFFIX,aip.org/pubs
+DOMAIN-SUFFIX,aip.org
 DOMAIN-SUFFIX,scitation.aip.org
 DOMAIN-SUFFIX,journals.aps.org
-DOMAIN-SUFFIX,journals.aps.org/archive
+DOMAIN-SUFFIX,journals.aps.org
 DOMAIN-SUFFIX,ascelibrary.org
 DOMAIN-SUFFIX,asmedigitalcollection.asme.org
 DOMAIN-SUFFIX,ebscohost.com
@@ -69,4 +69,3 @@ DOMAIN-SUFFIX,organismnames.com
 DOMAIN-SUFFIX,sciencewatch.com
 DOMAIN-SUFFIX,clarivate.com
 DOMAIN-SUFFIX,elsevier.com
-DOMAIN-SUFFIX,
