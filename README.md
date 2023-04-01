@@ -1,4 +1,21 @@
 # SSR去广告规则/GFWList规则/Clash规则碎片
+该fork为shevon御用规则修改：
+- 添加学术网站的直连规则，以使用校园网IP地址直连，避免下载文献需另外登录（目前以华南理工所购买的数据库地址作为规则）
+- 删除googlecn规则
+- 修改规则以更适应当前使用环境
+规则地址
+https://raw.githubusercontent.com/ShevonKuan/ACL4SSR/main/Clash/config/ACL4SSR_shevon.ini
+
+
+
+
+
+
+
+
+
+
+
 
 * 项目基于CC-BY-SA-4.0协议发布  [![CC-BY-SA-4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 * 仅推荐未root的安卓手机使用。
