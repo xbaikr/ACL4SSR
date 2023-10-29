@@ -67,4 +67,5 @@ DOMAIN-SUFFIX,sagepub.com
 DOMAIN-SUFFIX,organismnames.com
 DOMAIN-SUFFIX,sciencewatch.com
 DOMAIN-SUFFIX,clarivate.com
+IP-CIDR,222.201.187.0/24
 DOMAIN-SUFFIX,elsevier.com
