@@ -6,9 +6,8 @@
 规则地址
 https://raw.githubusercontent.com/ShevonKuan/ACL4SSR/main/Clash/config/ACL4SSR_shevon.ini
 
-
-
-
+# 重要更新
+同步上游重要更新 2023/10/23
 
 
 
@@ -120,6 +119,18 @@ https://raw.githubusercontent.com/ShevonKuan/ACL4SSR/main/Clash/config/ACL4SSR_s
 * ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl
 * ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl
 * SSR C# GFWList user.rule ：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule
+
+
+* SS：https://github.com/shadowsocks
+* SSR-WIN：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
+* SSR-安卓：https://github.com/shadowsocksr/shadowsocksr-android/releases
+
+# ♻️ Surge/Shadowrocket Config File Download：
+* 请到相关项目页面根据说明配置 https://github.com/lhie1/Rules
+
+📋 教程 / 说明：
+* 打开SSR->路由->自定义acl文件->输入下载地址->更新
+* 再次更新，点击软件页面底部的更新即可
 
 
 * SS：https://github.com/shadowsocks
