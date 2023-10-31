@@ -323,6 +323,9 @@ IP-CIDR,119.235.236.0/23,no-resolve
 IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.128.0/19,no-resolve
 
+# OpenAi
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # OneDrive
 DOMAIN-KEYWORD,1drv
@@ -389,7 +392,6 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamstat.us
 DOMAIN,steambroadcast.akamaized.net
-DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,steamstore-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
